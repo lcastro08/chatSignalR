@@ -1,0 +1,9 @@
+E:\Projects\ChatSignalR\Chat\Chat\Shared\bin\Debug\netstandard2.1\Chat.Shared.deps.json
+E:\Projects\ChatSignalR\Chat\Chat\Shared\bin\Debug\netstandard2.1\Chat.Shared.dll
+E:\Projects\ChatSignalR\Chat\Chat\Shared\bin\Debug\netstandard2.1\Chat.Shared.pdb
+E:\Projects\ChatSignalR\Chat\Chat\Shared\obj\Debug\netstandard2.1\Chat.Shared.csproj.AssemblyReference.cache
+E:\Projects\ChatSignalR\Chat\Chat\Shared\obj\Debug\netstandard2.1\Chat.Shared.AssemblyInfoInputs.cache
+E:\Projects\ChatSignalR\Chat\Chat\Shared\obj\Debug\netstandard2.1\Chat.Shared.AssemblyInfo.cs
+E:\Projects\ChatSignalR\Chat\Chat\Shared\obj\Debug\netstandard2.1\Chat.Shared.csproj.CoreCompileInputs.cache
+E:\Projects\ChatSignalR\Chat\Chat\Shared\obj\Debug\netstandard2.1\Chat.Shared.dll
+E:\Projects\ChatSignalR\Chat\Chat\Shared\obj\Debug\netstandard2.1\Chat.Shared.pdb
